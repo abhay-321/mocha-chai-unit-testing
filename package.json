@@ -1,0 +1,23 @@
+{
+  "name": "mocha-chai-unit-testing",
+  "version": "1.0.0",
+  "description": "Unit Testing Example using mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhay-321/mocha-chai-unit-testing.git"
+  },
+  "author": "Abhay Ahire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhay-321/mocha-chai-unit-testing/issues"
+  },
+  "homepage": "https://github.com/abhay-321/mocha-chai-unit-testing#readme",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
